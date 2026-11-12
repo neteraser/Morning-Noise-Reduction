@@ -1,0 +1,1 @@
+This noise reduction algorithm is using a spectral substraction method using CatmullRom1D and InverseCatmullRom1D functions. You gotta have a little more of the mathematical talent to add some wisdom to the basically solved mathematical task, so you can push the noise levels down lower without hurting the signal levels.
